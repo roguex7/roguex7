@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Developing AI-driven healthcare solutions, specifically an Automated Pneumonia Detection model using YOLOv5 and a Dengue Prediction System that functions as a clinical decision support tool.<br><br>👯 I’m looking to collaborate on Open-source Medical AI projects, Computer Vision research, or creating predictive models that solve real-world healthcare challenges.<br><br>🤝 I’m looking for help with Insights into PhD programs for AI/ML (specifically in the USA or Europe) and advanced model optimization techniques for edge deployment.<br><br>🌱 I’m currently learning Deepening my knowledge in Natural Language Processing (NLP), Big Data architectures (Hadoop/MapReduce), and Design Thinking principles.<br><br>💬 Ask me about Building interactive data apps with Streamlit, training object detection models (YOLO), or using Python & OCR to automate tedious data extraction tasks.<br><br>⚡ Fun fact I once wrote a custom Python script to extract and clean over 5,700 contact numbers from images just to avoid doing manual data entry for a local election campaign!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annantgautam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/roguexh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:annant060@gmail.com) 
 
